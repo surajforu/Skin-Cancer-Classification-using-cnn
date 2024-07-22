@@ -1,1 +1,1 @@
-# Skin-Cancer-Classification-using-cnn
+# Skin-Cancer-Classification-using-Deep Learning
